@@ -143,9 +143,3 @@ Implement email verification for signup.
 Upgrade to react-scripts@5.x for better compatibility.
 Format code with Prettier for consistency.
 
-Submission
-
-Repository: <repository-url> (public or shared)
-Instructions: Follow setup steps above.
-Due Date: [Insert Due Date Here]
-
